@@ -1,0 +1,20 @@
+
+@media screen and (min-width: 319px) and (max-width: 426px){
+
+    main #div_bts{
+        width: 100%;
+    }
+
+    .col-sm-4:nth-child(2){
+        padding: 50px 0 50px 0;
+    }
+
+}
+
+@media screen and (min-width: 768px) and (max-width: 1024px){
+
+    main #div_bts{
+        width: 100%;
+    }
+
+}
