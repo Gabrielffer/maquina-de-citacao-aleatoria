@@ -1,4 +1,4 @@
-# Código Fonte do Projeto Máquina de Citação Aleatório do [Free Code Camp](https://www.freecodecamp.org/)
+# Projeto do Curso Front End Development Libraries do [Free Code Camp](https://www.freecodecamp.org/)
 
 Criar uma máquina de citação aleatória
 
